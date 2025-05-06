@@ -16,7 +16,7 @@ Backups können lokal (z. B. auf externen Festplatten) oder extern (z. B. in
 
 In der Arbeit mit Datenbanken ist eine zuverlässige Datensicherung (Backup) unerlässlich, um Datenverluste durch Systemfehler, Benutzereingaben oder Hardwareprobleme zu vermeiden. Besonders bei produktiven Datenbanken sorgt ein durchdachtes Backup-Konzept für Sicherheit und Wiederherstellbarkeit.
 
-🔧 Backup mit SQL (Beispiel: MySQL)
+Backup mit SQL (Beispiel: MySQL)
 In MySQL erfolgt die Datensicherung meist über das Tool mysqldump, welches eine komplette Datenbank in Form von SQL-Befehlen exportiert:
 
 bash
