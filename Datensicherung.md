@@ -1,4 +1,4 @@
-Datensicherung (Backup) bezeichnet das Kopieren und Archivieren von Daten, um sie bei Datenverlust – z. B. durch Hardwarefehler, versehentliches Löschen, Malware oder Systemabstürze – wiederherstellen zu können.
+# Datensicherung (Backup) bezeichnet das Kopieren und Archivieren von Daten, um sie bei Datenverlust – z. B. durch Hardwarefehler, versehentliches Löschen, Malware oder Systemabstürze – wiederherstellen zu können.
 
 Es gibt verschiedene Arten von Backups:
 
