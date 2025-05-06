@@ -67,12 +67,8 @@ Backups & Auftrag Zusammenfassung
 Die heutige Lektion diente der Vorbereitung auf die kommende Prüfung. Der Lehrer verzichtete auf zusätzlichen Input, sodass wir direkt mit den Übungsaufgaben beginnen konnten.
 
 Unterlagen:
+- https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/8.Tag
 
-Vorbereitungsunterlagen
-
-Aufträge:
-
-Auftrag Steuerdaten
 
 # 15. April – Tag 9
 Wir nutzten die erste Hälfte der Lektion, um die Unterlagen noch einmal durchzugehen. Danach schrieben wir die Prüfung. Wer fertig war, durfte den Unterricht verlassen.
