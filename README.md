@@ -9,33 +9,26 @@ Heute las ich das gesamte Dokument des zweiten Tages aufmerksam durch. Ich versc
 
 Unterlagen:
 
-ERD erweitern, DBMS, Datenbank erstellen
+- [ERD erweitern, DBMS, Datenbank erstellen](https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/2.Tag)
 
-Generalisierung/Spezialisierung, is_a-Beziehung, Beziehungen
+  Einführung in DDL:
+- https://gitlab.com/ch-tbz-it/Stud/m164/-/blob/main/2.Tag/DDL_Intro.md
 
-Einführung in DDL
+
 
 # 4. März – Tag 3
 Zu Beginn hatte ich ein technisches Problem mit XAMPP, das mich am Weiterarbeiten hinderte. Nachdem meine ersten Lösungsversuche scheiterten, installierte ich das Programm neu – das half. Danach arbeitete ich mit dem Material des dritten Tages weiter und bearbeitete die gestellten Aufgaben.
 
 Unterlagen:
 
-Datentypen, Mehrfachbezeichnungen usw.
-
-Aufträge:
-
-Auftrag DML
+- https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/3.Tag#tag-3
 
 # 11. März – Tag 4
 Nach einer 90-minütigen Bearbeitung der Leistungsbeurteilung (LB1) las ich die neuen Unterlagen zum Thema referenzielle Integrität, Mengenlehre und DML (JOIN). Danach löste ich die zugehörigen Aufgaben.
 
 Unterlagen:
 
-Referenzielle Integrität, FK-Constraints, Mengenlehre, DML (JOIN)
-
-Aufträge:
-
-Auftrag Select Join
+- https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/4.Tag
 
 # 18. März – Tag 5
 Wir starteten die Lektion mit der Rückgabe unserer Prüfung, die wir überprüfen sollten. Danach vertieften wir die Themen des Tages: Datenintegrität, DQL, DCL und Optionen bei FK-Constraints.
