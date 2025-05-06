@@ -35,33 +35,20 @@ Wir starteten die Lektion mit der Rückgabe unserer Prüfung, die wir überprüf
 
 Unterlagen:
 
-Datenintegrität, DQL, DCL, FK-Optionen
-
-Aufträge:
-
-Auftrag Aggregatsfunktionen
-
-Select Group by
-
-Select Group by Order
+- https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/5.Tag
 
 # 25. März – Tag 6
 In dieser Lektion beschäftigten wir uns mit Subqueries. Nach dem Durcharbeiten der Unterlagen setzte ich mein Wissen in den Aufgaben um.
 
 Unterlagen:
 
-Subqueries
-
-Aufträge:
-
-Auftrag 1
+- https://gitlab.com/ch-tbz-it/Stud/m164/-/tree/main/6.Tag
 
 # 1. April – Tag 7
 Nach einem kurzen Input zum 1. April starteten wir direkt mit dem Thema „Backups“. Ich las die Unterlagen und bearbeitete anschließend die gestellten Aufgaben.
 
-Unterlagen & Aufträge:
-
 Backups & Auftrag Zusammenfassung
+- https://github.com/Ronnilants/M164/blob/main/Datensicherung
 
 # 8. April – Tag 8
 Die heutige Lektion diente der Vorbereitung auf die kommende Prüfung. Der Lehrer verzichtete auf zusätzlichen Input, sodass wir direkt mit den Übungsaufgaben beginnen konnten.
