@@ -48,7 +48,7 @@ Unterlagen:
 Nach einem kurzen Input zum 1. April starteten wir direkt mit dem Thema „Backups“. Ich las die Unterlagen und bearbeitete anschließend die gestellten Aufgaben.
 
 Backups & Auftrag Zusammenfassung
-- https://github.com/Ronnilants/M164/blob/main/Datensicherung
+- [https://github.com/Ronnilants/M164/blob/main/Datensicherung](https://github.com/Ronnilants/M164/blob/main/Datensicherung.md)
 
 # 8. April – Tag 8
 Die heutige Lektion diente der Vorbereitung auf die kommende Prüfung. Der Lehrer verzichtete auf zusätzlichen Input, sodass wir direkt mit den Übungsaufgaben beginnen konnten.
